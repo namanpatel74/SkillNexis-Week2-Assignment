@@ -1,0 +1,40 @@
+RESULTS FROM THE UPLOADED ORIGINAL DATASET
+Rows and columns: (200, 10)
+Exact duplicate rows: 0
+
+Missing values by column:
+order_id         0
+customer_name    0
+order_date       0
+category         0
+sub_category     0
+product_name     0
+quantity         0
+unit_price       0
+total_price      0
+region           0
+
+Total revenue by category:
+   category  total_revenue
+  Furniture         714399
+    Grocery         672147
+Electronics         549302
+   Clothing         484259
+
+Top 10 customers by total spend:
+     customer_name  total_spent
+     Lynn Garrison        47940
+     Debbie Turner        44990
+     Megan Charles        44620
+  Michelle Beltran        42471
+      Rick Sanford        41211
+    Patrick Watson        37680
+ Christopher Meyer        37320
+       Todd Barnes        36152
+Stephanie Martinez        34576
+ Kimberly Alvarado        31752
+
+Overall summary:
+Total revenue: 2420107.00
+Average order value (average total_price per row): 12100.53
+Number of rows/orders: 200
